@@ -5,19 +5,19 @@ This is a simple command-line password manager built with Go. It allows users to
 
 Features:
 
-  *User registration
-  *User login
-  *Password encryption and decryption using AES 
-  *Add new passwords 
-  *View existing passwords 
-  *Update passwords 
-  *Delete passwords 
-  *Change master password 
-  *Generate secure random passwords USB token verification for enhanced security 
-  *Export passwords to a file 
-  *Import passwords from a file
+- **User Registration**
+- **User Login**
+- **Password Encryption and Decryption using AES**
+- **Add New Passwords**
+- **View Existing Passwords**
+- **Update Passwords**
+- **Delete Passwords**
+- **Change Master Password**
+- **Generate Secure Random Passwords**
+- **USB Token Verification for Enhanced Security**
+- **Export Passwords to a File**
+- **Import Passwords from a File**
 
-Search functionality for passwords
 
 Getting Started Prerequisites
 
